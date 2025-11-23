@@ -16,3 +16,6 @@
 - File Handling (Read/Write)  
 - Error Handling & Input Validation  
 - Lambda functions & `max()` with `key`
+
+NAME    : Ansh Pansuriya
+Reg No. : 25MIP10133
