@@ -4,7 +4,7 @@
 - ➤ Add new students with marks in 5 subjects (Maths, Physics, Chemistry, English, Computer)  
 - ➤ Auto-calculates **Total Marks**, **Percentage**, **Grade (A+ to F)**, and **Pass/Fail** status  
 - ➤ **Data persistence** – All records are automatically saved to `student_records.txt`  
-- ➤ View all students in a beautiful tabular format  
+- ➤ View all students in a beautiful tabular format 
 - ➤ Search any student by **Roll Number**  
 - ➤ Instantly find the **Class Topper** with highest percentage  
 - ➤ Simple and intuitive menu-driven interface
